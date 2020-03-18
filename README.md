@@ -1,4 +1,4 @@
-# autoclicker
+# Info
 
 
 I take no responsibility if you get in trouble and or banned from a website or game for using my piece of code
